@@ -1,0 +1,13 @@
+csv file requirement: subj_idx, trial, response, Respoonse Time, Browser
+
+Instruction, practice, main task
+
+fault detection ask them to control in limited time otherwise they are not pay attention
+
+subj_idx 5 digit random number, incrementing
+
+NOte: GET BROWSWER NAME LOCATION TIMEOFDAY, LANGUAGE, COUNTRY
+
+ms is fine
+
+ASAP 
